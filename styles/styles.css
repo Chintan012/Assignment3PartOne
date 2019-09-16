@@ -3,14 +3,11 @@ body {
     font-size: 1em;
     line-height: 2em;
     background-color: #EDEDED;
-    width: 960px;
-    margin: 0 20px;
 }
 
 h3 {
     color: coral;
-    border: 1px groove black;
-    background-color: #929CA4;
+    border-bottom: 1px groove #929CA4;
 }
 
 p:nth-of-type(1):first-letter {
